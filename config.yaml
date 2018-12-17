@@ -1,0 +1,7 @@
+contexts:
+- data:
+    output_dir: contracts-processed
+    services_dir: contracts-services
+    templates_dir: contracts-templates
+  name: contracts
+current: contracts
