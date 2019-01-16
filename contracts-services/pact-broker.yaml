@@ -2,5 +2,5 @@ services:
 - hash: LATEST
   name: pact-broker
   path: /openshift/pact-broker.app.yaml
-  url: https://github.com/rhdt/pact-broker.git/
+  url: https://github.com/rhdt/pact-broker/
   hash_length: 7
